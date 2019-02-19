@@ -1,5 +1,6 @@
 # Headless Chrome
 [![Build Status](https://travis-ci.com/atroche/rust-headless-chrome.svg?branch=master)](https://travis-ci.com/atroche/rust-headless-chrome)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/atroche/rust-headless-chrome?branch=master&svg=true)](https://ci.appveyor.com/project/atroche/rust-headless-chrome)
 [![Crate](https://img.shields.io/crates/v/headless_chrome.svg)](https://crates.io/crates/headless_chrome)
 [![API](https://docs.rs/headless_chrome/badge.svg)](https://docs.rs/headless_chrome)
 
